@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Debug\collisionSquare.png</Source>
+      <Name>Debug\collisionSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\collisionSquare.xnb</Output>
+      <Time>2013-05-09T17:43:37.0334195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\InventoryTile.png</Source>
+      <Name>GUI\InventoryTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryTile.xnb</Output>
+      <Time>2013-05-09T17:43:36.6263963-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\InventoryBackground.png</Source>
+      <Name>GUI\InventoryBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryBackground.xnb</Output>
+      <Time>2013-05-09T17:43:36.8984118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\sword.png</Source>
+      <Name>Items\Weapons\sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\sword.xnb</Output>
+      <Time>2013-05-09T17:43:34.7092866-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\shield.png</Source>
+      <Name>Items\Weapons\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\shield.xnb</Output>
+      <Time>2013-05-09T17:43:34.856295-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\AttributePanel.png</Source>
+      <Name>GUI\AttributePanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\AttributePanel.xnb</Output>
+      <Time>2013-05-09T17:43:35.5833366-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\player.png</Source>
+      <Name>Characters\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\player.xnb</Output>
+      <Time>2013-05-09T17:43:38.5235048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\marker of censorship.png</Source>
+      <Name>Items\Weapons\marker of censorship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\marker of censorship.xnb</Output>
+      <Time>2013-05-09T17:43:34.8332937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\Afro.png</Source>
+      <Name>Items\Armor\Afro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\Afro.xnb</Output>
+      <Time>2013-05-09T17:43:34.1252532-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug\pathingTile.png</Source>
+      <Name>Debug\pathingTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\pathingTile.xnb</Output>
+      <Time>2013-05-09T17:43:37.0214189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesheets\TileSheet.png</Source>
+      <Name>Tilesheets\TileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\TileSheet.xnb</Output>
+      <Time>2013-05-09T17:43:37.4854454-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\rainBow.png</Source>
+      <Name>Items\Weapons\rainBow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\rainBow.xnb</Output>
+      <Time>2013-05-09T17:43:34.7702901-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\arrow.png</Source>
+      <Name>Projectiles\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\arrow.xnb</Output>
+      <Time>2013-05-09T17:43:34.9623011-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesheets\CircleGradient3.png</Source>
+      <Name>Tilesheets\CircleGradient3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CircleGradient3.xnb</Output>
+      <Time>2013-05-09T17:43:37.4244419-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesheets\CaveSheet.png</Source>
+      <Name>Tilesheets\CaveSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CaveSheet.xnb</Output>
+      <Time>2013-05-09T17:43:37.5524492-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\LoadingSprite.png</Source>
+      <Name>GUI\LoadingSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\LoadingSprite.xnb</Output>
+      <Time>2013-05-09T17:43:35.7113439-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\fireballLevel1.png</Source>
+      <Name>Projectiles\fireballLevel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel1.xnb</Output>
+      <Time>2013-05-09T17:43:34.9292992-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\fireballLevel2.png</Source>
+      <Name>Projectiles\fireballLevel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel2.xnb</Output>
+      <Time>2013-05-09T17:43:34.9993032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\fireballLevel3.png</Source>
+      <Name>Projectiles\fireballLevel3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel3.xnb</Output>
+      <Time>2013-05-09T17:43:35.0273048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\fireballLevel4.png</Source>
+      <Name>Projectiles\fireballLevel4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel4.xnb</Output>
+      <Time>2013-05-09T17:43:35.153312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Tortoise.png</Source>
+      <Name>Characters\Tortoise</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Tortoise.xnb</Output>
+      <Time>2013-05-09T17:43:38.334494-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\FlyingSpike.png</Source>
+      <Name>Projectiles\FlyingSpike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\FlyingSpike.xnb</Output>
+      <Time>2013-05-09T17:43:35.1973145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Other\ManaPotion.png</Source>
+      <Name>Items\Other\ManaPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\ManaPotion.xnb</Output>
+      <Time>2013-05-09T17:43:34.5272762-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Icicle.png</Source>
+      <Name>Projectiles\Icicle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Icicle.xnb</Output>
+      <Time>2013-05-09T17:43:34.8942972-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\backBar.png</Source>
+      <Name>GUI\backBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\backBar.xnb</Output>
+      <Time>2013-05-09T17:43:36.4383855-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\barForeground.png</Source>
+      <Name>GUI\barForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\barForeground.xnb</Output>
+      <Time>2013-05-09T17:43:36.9154128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\HealthBarForeground.png</Source>
+      <Name>GUI\HealthBarForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBarForeground.xnb</Output>
+      <Time>2013-05-09T17:43:36.4213845-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\HealthBar.png</Source>
+      <Name>GUI\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBar.xnb</Output>
+      <Time>2013-05-09T17:43:36.5183901-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\ManaBar.png</Source>
+      <Name>GUI\ManaBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBar.xnb</Output>
+      <Time>2013-05-09T17:43:36.989417-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\ManaBarForeground.png</Source>
+      <Name>GUI\ManaBarForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBarForeground.xnb</Output>
+      <Time>2013-05-09T17:43:36.7314023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\OptionsBackground.png</Source>
+      <Name>GUI\OptionsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\OptionsBackground.xnb</Output>
+      <Time>2013-05-09T17:43:36.6733989-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\PoisonArrow.png</Source>
+      <Name>Projectiles\PoisonArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\PoisonArrow.xnb</Output>
+      <Time>2013-05-09T17:43:35.1823137-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Popsickle.png</Source>
+      <Name>Items\Weapons\Popsickle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Popsickle.xnb</Output>
+      <Time>2013-05-09T17:43:34.6472831-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Bow.png</Source>
+      <Name>Items\Weapons\Bow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Bow.xnb</Output>
+      <Time>2013-05-09T17:43:34.6252818-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\IceSickle.png</Source>
+      <Name>Items\Weapons\IceSickle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\IceSickle.xnb</Output>
+      <Time>2013-05-09T17:43:34.7012861-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\DecoratedSword.png</Source>
+      <Name>Items\Weapons\DecoratedSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\DecoratedSword.xnb</Output>
+      <Time>2013-05-09T17:43:34.8642955-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\BlackSword.png</Source>
+      <Name>Items\Weapons\BlackSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\BlackSword.xnb</Output>
+      <Time>2013-05-09T17:43:34.6932857-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\ChainSword.png</Source>
+      <Name>Items\Weapons\ChainSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\ChainSword.xnb</Output>
+      <Time>2013-05-09T17:43:34.7182871-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\FireSword.png</Source>
+      <Name>Items\Weapons\FireSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\FireSword.xnb</Output>
+      <Time>2013-05-09T17:43:34.8102924-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\SteelSword.png</Source>
+      <Name>Items\Weapons\SteelSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\SteelSword.xnb</Output>
+      <Time>2013-05-09T17:43:34.6862853-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\FancyBoots.png</Source>
+      <Name>Items\Armor\FancyBoots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyBoots.xnb</Output>
+      <Time>2013-05-09T17:43:34.1422542-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\FancyChestPiece.png</Source>
+      <Name>Items\Armor\FancyChestPiece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyChestPiece.xnb</Output>
+      <Time>2013-05-09T17:43:33.7402312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\FancyHelmet.png</Source>
+      <Name>Items\Armor\FancyHelmet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyHelmet.xnb</Output>
+      <Time>2013-05-09T17:43:33.7562321-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\FancyLegs.png</Source>
+      <Name>Items\Armor\FancyLegs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyLegs.xnb</Output>
+      <Time>2013-05-09T17:43:34.2422599-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\ChainGuardChest.png</Source>
+      <Name>Items\Armor\ChainGuardChest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\ChainGuardChest.xnb</Output>
+      <Time>2013-05-09T17:43:34.2562607-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\AutumnChestPlate.png</Source>
+      <Name>Items\Armor\AutumnChestPlate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\AutumnChestPlate.xnb</Output>
+      <Time>2013-05-09T17:43:33.9072407-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\SeatlessTrousers.png</Source>
+      <Name>Items\Armor\SeatlessTrousers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\SeatlessTrousers.xnb</Output>
+      <Time>2013-05-09T17:43:34.2292591-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\WizardHat.png</Source>
+      <Name>Items\Armor\WizardHat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\WizardHat.xnb</Output>
+      <Time>2013-05-09T17:43:33.7482316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Backpack.png</Source>
+      <Name>GUI\Backpack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Backpack.xnb</Output>
+      <Time>2013-05-09T17:43:36.9504148-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Other\HealthPotion.png</Source>
+      <Name>Items\Other\HealthPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\HealthPotion.xnb</Output>
+      <Time>2013-05-09T17:43:34.4352709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Blur.png</Source>
+      <Name>GUI\Blur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Blur.xnb</Output>
+      <Time>2013-05-09T17:43:36.080365-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\goblin.png</Source>
+      <Name>Characters\goblin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\goblin.xnb</Output>
+      <Time>2013-05-09T17:43:38.4435002-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\SnowMan.png</Source>
+      <Name>Characters\SnowMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\SnowMan.xnb</Output>
+      <Time>2013-05-09T17:43:37.7774621-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\SnowBall.png</Source>
+      <Name>Projectiles\SnowBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\SnowBall.xnb</Output>
+      <Time>2013-05-09T17:43:35.1683129-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Viking Shield.png</Source>
+      <Name>Items\Weapons\Viking Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Viking Shield.xnb</Output>
+      <Time>2013-05-09T17:43:34.6042806-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\bolt sheet.png</Source>
+      <Name>Projectiles\bolt sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\bolt sheet.xnb</Output>
+      <Time>2013-05-09T17:43:34.9412999-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\club.png</Source>
+      <Name>Items\Weapons\club</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\club.xnb</Output>
+      <Time>2013-05-09T17:43:34.6122811-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Crossbow.png</Source>
+      <Name>Items\Weapons\Crossbow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Crossbow.xnb</Output>
+      <Time>2013-05-09T17:43:34.7782906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\flail.png</Source>
+      <Name>Items\Weapons\flail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\flail.xnb</Output>
+      <Time>2013-05-09T17:43:34.6392826-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Geradon.png</Source>
+      <Name>Items\Weapons\Geradon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Geradon.xnb</Output>
+      <Time>2013-05-09T17:43:34.5812793-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\plip.png</Source>
+      <Name>Characters\plip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\plip.xnb</Output>
+      <Time>2013-05-09T17:43:38.1114812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Nunchuck.png</Source>
+      <Name>Items\Weapons\Nunchuck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Nunchuck.xnb</Output>
+      <Time>2013-05-09T17:43:34.5662784-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\TheFootWarmers.png</Source>
+      <Name>Items\Armor\TheFootWarmers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\TheFootWarmers.xnb</Output>
+      <Time>2013-05-09T17:43:34.2132582-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Throwing Knife.png</Source>
+      <Name>Items\Weapons\Throwing Knife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Throwing Knife.xnb</Output>
+      <Time>2013-05-09T17:43:34.5732788-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Other\Super Health Potion.png</Source>
+      <Name>Items\Other\Super Health Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Health Potion.xnb</Output>
+      <Time>2013-05-09T17:43:34.3402655-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Other\Super Mana Potion.png</Source>
+      <Name>Items\Other\Super Mana Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Mana Potion.xnb</Output>
+      <Time>2013-05-09T17:43:34.5112753-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\The Slow Poke.png</Source>
+      <Name>Items\Weapons\The Slow Poke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\The Slow Poke.xnb</Output>
+      <Time>2013-05-09T17:43:34.8412942-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\RollingThing.png</Source>
+      <Name>Characters\RollingThing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\RollingThing.xnb</Output>
+      <Time>2013-05-09T17:43:37.7124584-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Bat.png</Source>
+      <Name>Characters\Bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Bat.xnb</Output>
+      <Time>2013-05-09T17:43:38.1984862-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\eye.png</Source>
+      <Name>Characters\eye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\eye.xnb</Output>
+      <Time>2013-05-09T17:43:38.0574781-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\iron chestplate.png</Source>
+      <Name>Items\Armor\iron chestplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron chestplate.xnb</Output>
+      <Time>2013-05-09T17:43:33.8182356-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\leather boots.png</Source>
+      <Name>Items\Armor\leather boots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leather boots.xnb</Output>
+      <Time>2013-05-09T17:43:34.2492603-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\leatherhat.png</Source>
+      <Name>Items\Armor\leatherhat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leatherhat.xnb</Output>
+      <Time>2013-05-09T17:43:33.7632325-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesheets\SnowSheet.png</Source>
+      <Name>Tilesheets\SnowSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\SnowSheet.xnb</Output>
+      <Time>2013-05-09T17:43:37.3844396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\GoblinBrute.png</Source>
+      <Name>Characters\GoblinBrute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\GoblinBrute.xnb</Output>
+      <Time>2013-05-09T17:45:55.6543482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\iron greaves.png</Source>
+      <Name>Items\Armor\iron greaves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron greaves.xnb</Output>
+      <Time>2013-05-09T19:17:58.2512227-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Lightsaber.png</Source>
+      <Name>Items\Weapons\Lightsaber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Lightsaber.xnb</Output>
+      <Time>2013-05-09T19:19:16.9987268-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\Blowgun.png</Source>
+      <Name>Items\Weapons\Blowgun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Blowgun.xnb</Output>
+      <Time>2013-05-09T19:24:01.8820212-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\Dart.png</Source>
+      <Name>Projectiles\Dart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Dart.xnb</Output>
+      <Time>2013-05-09T19:24:08.8494197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\wingedshoes.png</Source>
+      <Name>Items\Armor\wingedshoes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\wingedshoes.xnb</Output>
+      <Time>2013-05-09T19:54:05.7421961-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\iciclespellbook.png</Source>
+      <Name>Items\Weapons\iciclespellbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\iciclespellbook.xnb</Output>
+      <Time>2013-05-09T20:31:32.6237103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\lightbolt spellbook.png</Source>
+      <Name>Items\Weapons\lightbolt spellbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\lightbolt spellbook.xnb</Output>
+      <Time>2013-05-09T20:31:54.5579649-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\snowball spellbook.png</Source>
+      <Name>Items\Weapons\snowball spellbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\snowball spellbook.xnb</Output>
+      <Time>2013-05-09T20:32:05.3135801-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Weapons\fireball spellbook.png</Source>
+      <Name>Items\Weapons\fireball spellbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\fireball spellbook.xnb</Output>
+      <Time>2013-05-09T20:32:20.4274446-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Armor\the hat.png</Source>
+      <Name>Items\Armor\the hat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\the hat.xnb</Output>
+      <Time>2013-05-09T20:32:34.5332514-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Title.jpg</Source>
+      <Name>GUI\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Title.xnb</Output>
+      <Time>2013-05-09T20:53:43.6528408-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Menu.jpg</Source>
+      <Name>GUI\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Menu.xnb</Output>
+      <Time>2013-05-09T20:59:30.5616829-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2013-05-10T10:01:18.6229555-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TitleFont.spritefont</Source>
+      <Name>Fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\TitleFont.xnb</Output>
+      <Time>2013-05-10T10:01:18.5939539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\attributefont.spritefont</Source>
+      <Name>Fonts\attributefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\attributefont.xnb</Output>
+      <Time>2013-05-09T17:43:37.0804222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SplashText.spritefont</Source>
+      <Name>Fonts\SplashText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\SplashText.xnb</Output>
+      <Time>2013-05-09T17:43:37.2444316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\megaman.mp3</Source>
+      <Name>Audio\megaman</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.xnb</Output>
+      <Extra>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.wma</Extra>
+      <Time>2013-05-09T17:43:32.9381853-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bloodsong.mp3</Source>
+      <Name>Audio\bloodsong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.xnb</Output>
+      <Extra>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.wma</Extra>
+      <Time>2013-05-09T17:43:33.6762275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MenuSounds.mp3</Source>
+      <Name>Audio\MenuSounds</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.xnb</Output>
+      <Extra>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.wma</Extra>
+      <Time>2013-05-09T17:43:33.7272304-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTIONContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTIONContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-08T16:25:50.0397141-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

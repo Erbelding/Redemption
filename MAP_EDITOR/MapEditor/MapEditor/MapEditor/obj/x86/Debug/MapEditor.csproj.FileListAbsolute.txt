@@ -1,0 +1,157 @@
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\axv3658\IGMProfile\Desktop\They Group\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.LayerCreator.resources
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityCreator.resources
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\MapFiles\map01.txt
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe.config
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EditorForm.resources
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityCreator.resources
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.EntityEditor.resources
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.Editor.MapCreator.resources
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-03-16T19:43:17.5729057-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\TitleFont.xnb</Output>
+      <Time>2013-03-20T17:35:32.488372-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuScreen.png</Source>
+      <Name>MenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\MenuScreen.xnb</Output>
+      <Time>2013-03-20T15:19:20.313768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreen.png</Source>
+      <Name>GameScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\GameScreen.xnb</Output>
+      <Time>2013-03-20T15:19:24.1743889-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Book.png</Source>
+      <Name>Book</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Book.xnb</Output>
+      <Time>2013-03-20T17:24:13.9905641-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagementContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagementContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-08T16:25:50.0397141-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

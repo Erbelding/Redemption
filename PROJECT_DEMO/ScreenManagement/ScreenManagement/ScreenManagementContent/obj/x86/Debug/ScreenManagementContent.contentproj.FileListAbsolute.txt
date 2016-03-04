@@ -1,0 +1,3 @@
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagementContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagementContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagementContent\obj\x86\Debug\ScreenManagementContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,212 @@
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Debug\collisionSquare.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\InventoryTile.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\InventoryBackground.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\sword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\shield.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\AttributePanel.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\player.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\marker of censorship.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\Afro.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Debug\pathingTile.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\TileSheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\rainBow.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\arrow.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\CircleGradient3.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\CaveSheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\LoadingSprite.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel1.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel2.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel3.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel4.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\Tortoise.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\FlyingSpike.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\ManaPotion.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\Icicle.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\backBar.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\barForeground.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\HealthBarForeground.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\HealthBar.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\ManaBar.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\ManaBarForeground.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\OptionsBackground.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\PoisonArrow.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Popsickle.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Bow.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\IceSickle.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\DecoratedSword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\BlackSword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\ChainSword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\FireSword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\SteelSword.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyBoots.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyChestPiece.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyHelmet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyLegs.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\ChainGuardChest.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\AutumnChestPlate.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\SeatlessTrousers.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\WizardHat.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Backpack.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\HealthPotion.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Blur.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\goblin.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\SnowMan.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\SnowBall.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Viking Shield.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\bolt sheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\club.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Crossbow.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\flail.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Geradon.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\plip.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Nunchuck.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\TheFootWarmers.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Throwing Knife.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\Super Health Potion.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\Super Mana Potion.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\The Slow Poke.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\RollingThing.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\Bat.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\eye.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\iron chestplate.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\leather boots.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\leatherhat.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\SnowSheet.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\GoblinBrute.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\iron greaves.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Lightsaber.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Blowgun.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\Dart.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\wingedshoes.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\iciclespellbook.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\lightbolt spellbook.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\snowball spellbook.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\fireball spellbook.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\the hat.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Title.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Menu.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\TitleFont.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\attributefont.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\SplashText.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\megaman.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\bloodsong.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\MenuSounds.xnb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\megaman.wma
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\bloodsong.wma
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\MenuSounds.wma
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.exe.config
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.exe
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.pdb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\RedemptionEngine.dll
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\RedemptionEngine.pdb
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\REDEMPTION.exe
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\REDEMPTION.pdb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Debug\collisionSquare.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\InventoryTile.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\InventoryBackground.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\sword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\shield.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\AttributePanel.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\player.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\marker of censorship.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\Afro.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Debug\pathingTile.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\TileSheet.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\rainBow.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\arrow.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\CircleGradient3.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\CaveSheet.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\LoadingSprite.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel1.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel2.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel3.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\fireballLevel4.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\Tortoise.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\FlyingSpike.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\ManaPotion.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\Icicle.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\backBar.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\barForeground.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\HealthBarForeground.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\HealthBar.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\ManaBar.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\ManaBarForeground.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\OptionsBackground.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\PoisonArrow.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Popsickle.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Bow.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\IceSickle.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\DecoratedSword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\BlackSword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\ChainSword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\FireSword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\SteelSword.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyBoots.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyChestPiece.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyHelmet.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\FancyLegs.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\ChainGuardChest.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\AutumnChestPlate.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\SeatlessTrousers.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\WizardHat.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Backpack.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\HealthPotion.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Blur.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\goblin.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\SnowMan.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\SnowBall.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Viking Shield.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\bolt sheet.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\club.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Crossbow.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\flail.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Geradon.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\plip.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Nunchuck.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\TheFootWarmers.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Throwing Knife.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\Super Health Potion.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Other\Super Mana Potion.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\The Slow Poke.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\RollingThing.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\Bat.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\eye.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\iron chestplate.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\leather boots.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\leatherhat.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Tilesheets\SnowSheet.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Characters\GoblinBrute.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\iron greaves.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Lightsaber.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\Blowgun.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Projectiles\Dart.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\wingedshoes.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\iciclespellbook.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\lightbolt spellbook.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\snowball spellbook.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Weapons\fireball spellbook.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Items\Armor\the hat.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Title.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\GUI\Menu.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\TitleFont.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\attributefont.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Fonts\SplashText.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\megaman.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\bloodsong.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\MenuSounds.xnb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\megaman.wma
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\bloodsong.wma
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\Content\Audio\MenuSounds.wma
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.exe.config
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.exe
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\REDEMPTION.pdb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\RedemptionEngine.dll
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Release\RedemptionEngine.pdb
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\REDEMPTION.exe
+C:\Users\David\Desktop\School Files\Year_1\3rd_Quarter\GSD_III\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Release\REDEMPTION.pdb

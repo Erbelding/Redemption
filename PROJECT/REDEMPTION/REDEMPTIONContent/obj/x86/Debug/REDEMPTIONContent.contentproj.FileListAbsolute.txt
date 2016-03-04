@@ -1,0 +1,4 @@
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTIONContent\obj\x86\Debug\REDEMPTIONContent.contentprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTIONContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTIONContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\REDEMPTION 1.0\PROJECT\REDEMPTION\REDEMPTIONContent\obj\x86\Debug\ResolveAssemblyReference.cache

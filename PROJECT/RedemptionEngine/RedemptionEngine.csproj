@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{C2993A76-33FC-4C49-9490-78394094CB7F}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RedemptionEngine</RootNamespace>
+    <AssemblyName>RedemptionEngine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>HiDef</XnaProfile>
+    <XnaCrossPlatformGroupID>5d454be6-c25d-47e7-a62e-f55c740da251</XnaCrossPlatformGroupID>
+    <XnaOutputType>Library</XnaOutputType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Avatar, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DropItems.cs" />
+    <Compile Include="GameAudio.cs" />
+    <Compile Include="GUIBar.cs" />
+    <Compile Include="HealthBar.cs" />
+    <Compile Include="Items\Armor\ChainGuardChest.cs" />
+    <Compile Include="Items\Armor\Hat.cs" />
+    <Compile Include="Items\Armor\WingBoots.cs" />
+    <Compile Include="Items\Armor\IronGreaves.cs" />
+    <Compile Include="Items\Armor\LeatherHat.cs" />
+    <Compile Include="Items\Armor\LeatherBoots.cs" />
+    <Compile Include="Items\Armor\IronChest.cs" />
+    <Compile Include="Items\Armor\WizardsHat.cs" />
+    <Compile Include="Items\Armor\FootWarmers.cs" />
+    <Compile Include="Items\Armor\SeatlessTrousers.cs" />
+    <Compile Include="Items\Armor\FancyHelmet.cs" />
+    <Compile Include="Items\Armor\FancyLegs.cs" />
+    <Compile Include="Items\Armor\FancyBoots.cs" />
+    <Compile Include="Items\Armor\FancyChest.cs" />
+    <Compile Include="Items\Armor\AutumnChest.cs" />
+    <Compile Include="Items\Armor\GentlemansToupe.cs" />
+    <Compile Include="Items\Consumables\SuperHealthPotion.cs" />
+    <Compile Include="Items\Consumables\SuperManaPotion.cs" />
+    <Compile Include="Items\Consumables\ManaPotion.cs" />
+    <Compile Include="Items\DropPool.cs" />
+    <Compile Include="Items\Projectiles\Arrow.cs" />
+    <Compile Include="Items\Projectiles\Dart.cs" />
+    <Compile Include="Items\Projectiles\Knife.cs" />
+    <Compile Include="Items\Projectiles\LightningBolt.cs" />
+    <Compile Include="Items\Projectiles\IceShard.cs" />
+    <Compile Include="Items\Projectiles\NeedleShot.cs" />
+    <Compile Include="Items\Projectiles\Snowball.cs" />
+    <Compile Include="Items\StatusEffect.cs" />
+    <Compile Include="Items\StatusEffects\Burn.cs" />
+    <Compile Include="Items\StatusEffects\Censor.cs" />
+    <Compile Include="Items\StatusEffects\Poison.cs" />
+    <Compile Include="Items\Weapons\Club.cs" />
+    <Compile Include="Items\Weapons\Blowgun.cs" />
+    <Compile Include="Items\Weapons\RaySword.cs" />
+    <Compile Include="Items\Weapons\SlowPoke.cs" />
+    <Compile Include="Items\Weapons\ThrowingKnife.cs" />
+    <Compile Include="Items\Weapons\Nunchuck.cs" />
+    <Compile Include="Items\Weapons\Geradon.cs" />
+    <Compile Include="Items\Weapons\Flail.cs" />
+    <Compile Include="Items\Weapons\CrossBow.cs" />
+    <Compile Include="Items\Weapons\LightBolt.cs" />
+    <Compile Include="Items\Weapons\VikingShield.cs" />
+    <Compile Include="Items\Weapons\FireSword.cs" />
+    <Compile Include="Items\Weapons\DecoratedSword.cs" />
+    <Compile Include="Items\Weapons\IceSickle.cs" />
+    <Compile Include="Items\Weapons\ChainSword.cs" />
+    <Compile Include="Items\Weapons\Popsickle.cs" />
+    <Compile Include="Items\Weapons\Bow.cs" />
+    <Compile Include="Items\Weapons\Special\BlackSword.cs" />
+    <Compile Include="Items\Weapons\Special\SnowShot.cs" />
+    <Compile Include="Items\Weapons\SteelSword.cs" />
+    <Compile Include="ManaBar.cs" />
+    <Compile Include="ObjectClasses\Enemy\Bat.cs" />
+    <Compile Include="ObjectClasses\Enemy\Eye.cs" />
+    <Compile Include="ObjectClasses\Enemy\GoblinBrute.cs" />
+    <Compile Include="ObjectClasses\Enemy\RollingThing.cs" />
+    <Compile Include="ObjectClasses\Enemy\SnowMan.cs" />
+    <Compile Include="ObjectClasses\WeaponSwing.cs" />
+    <Compile Include="Items\Weapons\IcicleShot.cs" />
+    <Compile Include="Items\Weapons\Special\RainBow.cs" />
+    <Compile Include="Items\Weapons\FireballShot.cs" />
+    <Compile Include="NodeMap.cs" />
+    <Compile Include="ObjectClasses\Enemy\Plip.cs" />
+    <Compile Include="Items\Projectiles\Fireball.cs" />
+    <Compile Include="ObjectClasses\Enemy\Turtle.cs" />
+    <Compile Include="ObjectClasses\InfinityAnimation.cs" />
+    <Compile Include="ObjectClasses\Projectile.cs" />
+    <Compile Include="ObjectClasses\SplashText.cs" />
+    <Compile Include="ObjectClasses\WarpGate.cs" />
+    <Compile Include="Path.cs" />
+    <Compile Include="PathNode.cs" />
+    <Compile Include="Controller.cs" />
+    <Compile Include="Items\Inventory.cs" />
+    <Compile Include="Items\InventorySlot.cs" />
+    <Compile Include="Items\Item.cs" />
+    <Compile Include="Items\Modifier.cs" />
+    <Compile Include="Items\Consumables\Potion.cs" />
+    <Compile Include="Items\Weapons\Shield.cs" />
+    <Compile Include="Items\Weapons\Special\MarkerOfCensorship.cs" />
+    <Compile Include="Items\Weapons\Sword.cs" />
+    <Compile Include="Items\Weapons\Weapon.cs" />
+    <Compile Include="ObjectClasses\Enemy\Animation.cs" />
+    <Compile Include="ObjectClasses\CharacterAttribute.cs" />
+    <Compile Include="ObjectClasses\Character.cs" />
+    <Compile Include="ObjectClasses\Enemy\Enemy.cs" />
+    <Compile Include="ObjectClasses\Enemy\Goblin.cs" />
+    <Compile Include="ObjectClasses\Entity.cs" />
+    <Compile Include="ObjectClasses\GameObject.cs" />
+    <Compile Include="ObjectClasses\NPC.cs" />
+    <Compile Include="ObjectClasses\Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screens\GamePlayScreen.cs" />
+    <Compile Include="Screens\GameScreen.cs" />
+    <Compile Include="Screens\InventoryScreen.cs" />
+    <Compile Include="Screens\LoadFileScreen.cs" />
+    <Compile Include="Screens\NewFileScreen.cs" />
+    <Compile Include="Screens\LoadingScreen.cs" />
+    <Compile Include="Screens\MainMenuScreen.cs" />
+    <Compile Include="Screens\OptionsScreen.cs" />
+    <Compile Include="Screens\PauseMenuScreen.cs" />
+    <Compile Include="Screens\ScreenManager.cs" />
+    <Compile Include="Screens\TitleScreen.cs" />
+    <Compile Include="TileEngine\Camera.cs" />
+    <Compile Include="TileEngine\CollisionLayer.cs" />
+    <Compile Include="TileEngine\CollisionTile.cs" />
+    <Compile Include="EquipmentBar.cs" />
+    <Compile Include="TileEngine\GameManager.cs" />
+    <Compile Include="TileEngine\Map.cs" />
+    <Compile Include="TileEngine\TerrainLayer.cs" />
+    <Compile Include="TileEngine\Tile.cs" />
+    <Compile Include="TileEngine\TileSheet.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

@@ -1,0 +1,33 @@
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Font.xnb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.exe
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.pdb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.exe
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.pdb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\MenuScreen.xnb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\GameScreen.xnb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Book.xnb
+C:\Users\David\Desktop\GSD_III\Project\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Font.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\MenuScreen.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\GameScreen.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Book.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.exe
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.pdb
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.exe
+C:\Users\David\Desktop\I don't Care\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Font.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\MenuScreen.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\GameScreen.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\Content\Book.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\bin\x86\Debug\ScreenManagement.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.csprojResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\ScreenManagement\ScreenManagement\ScreenManagement\obj\x86\Debug\ScreenManagement.pdb

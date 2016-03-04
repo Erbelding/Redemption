@@ -1,0 +1,18 @@
+[LOCATION]
+Forest01 77 230
+
+[ATTRIBUTES]
+Level 1 100
+Experience 17 20
+Health 1 100
+Mana 20 20
+Stamina 20 20
+Defense 10 999
+Strength 10 999
+Magic 10 999
+
+[EQUIPMENT]
+Sword NONE NONE NONE NONE NONE 
+[INVENTORY]
+
+[QUESTS]

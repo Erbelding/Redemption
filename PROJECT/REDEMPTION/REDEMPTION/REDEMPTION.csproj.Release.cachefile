@@ -1,0 +1,97 @@
+Content\Debug\collisionSquare.xnb
+Content\GUI\InventoryTile.xnb
+Content\GUI\InventoryBackground.xnb
+Content\Items\Weapons\sword.xnb
+Content\Items\Weapons\shield.xnb
+Content\GUI\AttributePanel.xnb
+Content\Characters\player.xnb
+Content\Items\Weapons\marker of censorship.xnb
+Content\Items\Armor\Afro.xnb
+Content\Debug\pathingTile.xnb
+Content\Tilesheets\TileSheet.xnb
+Content\Items\Weapons\rainBow.xnb
+Content\Projectiles\arrow.xnb
+Content\Tilesheets\CircleGradient3.xnb
+Content\Tilesheets\CaveSheet.xnb
+Content\GUI\LoadingSprite.xnb
+Content\Projectiles\fireballLevel1.xnb
+Content\Projectiles\fireballLevel2.xnb
+Content\Projectiles\fireballLevel3.xnb
+Content\Projectiles\fireballLevel4.xnb
+Content\Characters\Tortoise.xnb
+Content\Projectiles\FlyingSpike.xnb
+Content\Items\Other\ManaPotion.xnb
+Content\Projectiles\Icicle.xnb
+Content\GUI\backBar.xnb
+Content\GUI\barForeground.xnb
+Content\GUI\HealthBarForeground.xnb
+Content\GUI\HealthBar.xnb
+Content\GUI\ManaBar.xnb
+Content\GUI\ManaBarForeground.xnb
+Content\GUI\OptionsBackground.xnb
+Content\Projectiles\PoisonArrow.xnb
+Content\Items\Weapons\Popsickle.xnb
+Content\Items\Weapons\Bow.xnb
+Content\Items\Weapons\IceSickle.xnb
+Content\Items\Weapons\DecoratedSword.xnb
+Content\Items\Weapons\BlackSword.xnb
+Content\Items\Weapons\ChainSword.xnb
+Content\Items\Weapons\FireSword.xnb
+Content\Items\Weapons\SteelSword.xnb
+Content\Items\Armor\FancyBoots.xnb
+Content\Items\Armor\FancyChestPiece.xnb
+Content\Items\Armor\FancyHelmet.xnb
+Content\Items\Armor\FancyLegs.xnb
+Content\Items\Armor\ChainGuardChest.xnb
+Content\Items\Armor\AutumnChestPlate.xnb
+Content\Items\Armor\SeatlessTrousers.xnb
+Content\Items\Armor\WizardHat.xnb
+Content\GUI\Backpack.xnb
+Content\Items\Other\HealthPotion.xnb
+Content\GUI\Blur.xnb
+Content\Characters\goblin.xnb
+Content\Characters\SnowMan.xnb
+Content\Projectiles\SnowBall.xnb
+Content\Items\Weapons\Viking Shield.xnb
+Content\Projectiles\bolt sheet.xnb
+Content\Items\Weapons\club.xnb
+Content\Items\Weapons\Crossbow.xnb
+Content\Items\Weapons\flail.xnb
+Content\Items\Weapons\Geradon.xnb
+Content\Characters\plip.xnb
+Content\Items\Weapons\Nunchuck.xnb
+Content\Items\Armor\TheFootWarmers.xnb
+Content\Items\Weapons\Throwing Knife.xnb
+Content\Items\Other\Super Health Potion.xnb
+Content\Items\Other\Super Mana Potion.xnb
+Content\Items\Weapons\The Slow Poke.xnb
+Content\Characters\RollingThing.xnb
+Content\Characters\Bat.xnb
+Content\Characters\eye.xnb
+Content\Items\Armor\iron chestplate.xnb
+Content\Items\Armor\leather boots.xnb
+Content\Items\Armor\leatherhat.xnb
+Content\Tilesheets\SnowSheet.xnb
+Content\Characters\GoblinBrute.xnb
+Content\Items\Armor\iron greaves.xnb
+Content\Items\Weapons\Lightsaber.xnb
+Content\Items\Weapons\Blowgun.xnb
+Content\Projectiles\Dart.xnb
+Content\Items\Armor\wingedshoes.xnb
+Content\Items\Weapons\iciclespellbook.xnb
+Content\Items\Weapons\lightbolt spellbook.xnb
+Content\Items\Weapons\snowball spellbook.xnb
+Content\Items\Weapons\fireball spellbook.xnb
+Content\Items\Armor\the hat.xnb
+Content\GUI\Title.xnb
+Content\GUI\Menu.xnb
+Content\Fonts\Font.xnb
+Content\Fonts\TitleFont.xnb
+Content\Fonts\attributefont.xnb
+Content\Fonts\SplashText.xnb
+Content\Audio\megaman.xnb
+Content\Audio\bloodsong.xnb
+Content\Audio\MenuSounds.xnb
+Content\Audio\megaman.wma
+Content\Audio\bloodsong.wma
+Content\Audio\MenuSounds.wma

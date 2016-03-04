@@ -1,0 +1,321 @@
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.dll
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.exe
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.pdb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\bridgeDemo.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\collisionSquare.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\font.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Maps\bridgeTest.txt
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.pdb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.dll
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.pdb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.pdb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\MenuScreen.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GameScreen.xnb
+C:\Users\David\Desktop\I don't Care\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Book.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.pdb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.dll
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.pdb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.pdb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\collisionSquare.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryTile.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryBackground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\sword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\shield.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\AttributePanel.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\player.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\marker of censorship.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\Afro.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\pathingTile.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\plip.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\TileSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\rainBow.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\arrow.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CircleGradient3.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CaveSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel1.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel2.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel3.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel4.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Tortoise.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\FlyingSpike.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\attributefont.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\SplashText.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\LoadingSprite.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\ManaPotion.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Icicle.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\collisionSquare.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\MenuScreen.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryBackground.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\sword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\shield.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\AttributePanel.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\player.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\marker of censorship.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\Afro.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\pathingTile.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\plip.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\TileSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\rainBow.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\arrow.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CircleGradient3.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CaveSheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\LoadingSprite.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel1.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel2.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel3.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel4.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\spellbook.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Tortoise.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\FlyingSpike.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\ManaPotion.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Icicle.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\attributefont.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\SplashText.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.wma
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.wma
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.wma
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.wma
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\goblin.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\goblin.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\backBar.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\barForeground.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBarForeground.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBar.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBar.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBarForeground.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.wma
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\backBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\barForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBarForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBarForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.wma
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\OptionsBackground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\OptionsBackground.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\PoisonArrow.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\PoisonArrow.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Popsickle.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Bow.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\IceSickle.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\DecoratedSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\BlackSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\ChainSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\FireSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\SteelSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyBoots.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyChestPiece.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyHelmet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyLegs.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\ChainGuardChest.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\AutumnChestPlate.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\SeatlessTrousers.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\WizardHat.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Backpack.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\HealthPotion.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Blur.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\SnowMan.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\SnowBall.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Viking Shield.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Popsickle.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Bow.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\IceSickle.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\ice spellbook.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\DecoratedSword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\BlackSword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\ChainSword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\FireSword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\SteelSword.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyBoots.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyChestPiece.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyHelmet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyLegs.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\ChainGuardChest.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\AutumnChestPlate.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\SeatlessTrousers.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\WizardHat.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Backpack.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\HealthPotion.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Blur.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\SnowMan.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\SnowBall.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Viking Shield.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\bolt sheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\club.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Crossbow.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\flail.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Geradon.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Nunchuck.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\TheFootWarmers.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Throwing Knife.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Health Potion.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Mana Potion.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\The Slow Poke.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\RollingThing.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Bat.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\eye.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron chestplate.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leather boots.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leatherhat.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\bolt sheet.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\club.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Crossbow.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\flail.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Geradon.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Nunchuck.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\TheFootWarmers.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Throwing Knife.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Health Potion.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Mana Potion.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\The Slow Poke.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\RollingThing.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Bat.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\eye.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron chestplate.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leather boots.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leatherhat.xnb
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\SnowSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\SnowSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\GoblinBrute.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron greaves.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Lightsaber.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Blowgun.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Dart.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\wingedshoes.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\iciclespellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\lightbolt spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\snowball spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\fireball spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Title.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Menu.xnb
+C:\Users\David\Desktop\Sub\PROJECT\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\the hat.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\collisionSquare.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryTile.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\InventoryBackground.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\sword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\shield.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\AttributePanel.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\player.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\marker of censorship.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\Afro.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Debug\pathingTile.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\TileSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\rainBow.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\arrow.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CircleGradient3.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\CaveSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\LoadingSprite.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel1.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel2.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel3.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\fireballLevel4.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Tortoise.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\FlyingSpike.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\ManaPotion.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Icicle.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\backBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\barForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBarForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\HealthBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBar.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\ManaBarForeground.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\OptionsBackground.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\PoisonArrow.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Popsickle.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Bow.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\IceSickle.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\DecoratedSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\BlackSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\ChainSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\FireSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\SteelSword.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyBoots.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyChestPiece.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyHelmet.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\FancyLegs.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\ChainGuardChest.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\AutumnChestPlate.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\SeatlessTrousers.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\WizardHat.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Backpack.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\HealthPotion.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Blur.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\goblin.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\SnowMan.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\SnowBall.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Viking Shield.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\bolt sheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\club.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Crossbow.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\flail.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Geradon.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\plip.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Nunchuck.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\TheFootWarmers.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Throwing Knife.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Health Potion.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Other\Super Mana Potion.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\The Slow Poke.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\RollingThing.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\Bat.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\eye.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron chestplate.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leather boots.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\leatherhat.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Tilesheets\SnowSheet.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Characters\GoblinBrute.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\iron greaves.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Lightsaber.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\Blowgun.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Projectiles\Dart.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\wingedshoes.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\iciclespellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\lightbolt spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\snowball spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Weapons\fireball spellbook.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Items\Armor\the hat.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Title.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\GUI\Menu.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\TitleFont.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\attributefont.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Fonts\SplashText.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.xnb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\megaman.wma
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\bloodsong.wma
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\Content\Audio\MenuSounds.wma
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\REDEMPTION.pdb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.dll
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\bin\x86\Debug\RedemptionEngine.pdb
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.exe
+C:\Users\David\Desktop\Sub\PROJECT_DEMO\REDEMPTION\REDEMPTION\obj\x86\Debug\REDEMPTION.pdb

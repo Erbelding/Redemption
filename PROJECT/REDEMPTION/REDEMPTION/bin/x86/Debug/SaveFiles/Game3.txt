@@ -1,0 +1,18 @@
+[LOCATION]
+MountainCave01 788 1728
+
+[ATTRIBUTES]
+Level 11 100
+Experience 168 184
+Health 155 179
+Mana 51 51
+Stamina 59 59
+Defense 25 999
+Strength 25 999
+Magic 25 999
+
+[EQUIPMENT]
+Nunchuck Blowgun NONE IronChest NONE NONE 
+[INVENTORY]
+ManaPotion ManaPotion ManaPotion ManaPotion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Sword Sword Shield 
+[QUESTS]

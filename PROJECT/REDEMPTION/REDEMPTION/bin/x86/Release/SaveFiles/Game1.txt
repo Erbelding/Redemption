@@ -1,0 +1,18 @@
+[LOCATION]
+Swamp01 795 72
+
+[ATTRIBUTES]
+Level 3 100
+Experience 16 47
+Health 27 117
+Mana 27 27
+Stamina 24 24
+Defense 13 999
+Strength 13 999
+Magic 14 999
+
+[EQUIPMENT]
+Sword Shield NONE NONE NONE NONE 
+[INVENTORY]
+Potion Potion Potion ManaPotion 
+[QUESTS]

@@ -1,0 +1,18 @@
+[LOCATION]
+Canyon01 532 2368
+
+[ATTRIBUTES]
+Level 44 100
+Experience 1132 30917
+Health 406 430
+Mana 167 167
+Stamina 166 166
+Defense 68 999
+Strength 66 999
+Magic 68 999
+
+[EQUIPMENT]
+FireballShot Blowgun GentlemansToupe IronChest NONE NONE 
+[INVENTORY]
+SteelSword SteelSword VikingShield VikingShield Sword SlowPoke ThrowingKnife LightBolt LightBolt LightBolt Shield Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Crossbow Flail ChainSword Bow Bow Bow ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion SuperManaPotion SuperManaPotion SuperManaPotion SuperManaPotion RainBow SuperHealthPotion 
+[QUESTS]

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GridTile.png</Source>
+      <Name>GridTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\GridTile.xnb</Output>
+      <Time>2013-04-21T03:02:00.8786032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheet.png</Source>
+      <Name>TileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheet.xnb</Output>
+      <Time>2013-04-21T03:02:00.4685798-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SelectorTile.png</Source>
+      <Name>SelectorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\SelectorTile.xnb</Output>
+      <Time>2013-04-21T03:02:00.7935983-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stackedTileSheet.png</Source>
+      <Name>stackedTileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\stackedTileSheet.xnb</Output>
+      <Time>2013-04-21T03:02:00.4485786-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collision.png</Source>
+      <Name>Collision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\Collision.xnb</Output>
+      <Time>2013-04-21T03:02:00.7375951-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bridgeDemo.png</Source>
+      <Name>bridgeDemo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\bridgeDemo.xnb</Output>
+      <Time>2013-04-21T03:02:00.8596021-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSheetWaterBorder.png</Source>
+      <Name>TileSheetWaterBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\TileSheetWaterBorder.xnb</Output>
+      <Time>2013-04-21T03:02:00.507582-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-08T16:25:50.0397141-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

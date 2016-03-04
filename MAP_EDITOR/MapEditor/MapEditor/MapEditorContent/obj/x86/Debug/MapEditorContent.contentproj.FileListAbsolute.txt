@@ -1,0 +1,7 @@
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\MapEditorContent.contentprojResolveAssemblyReference.cache
+E:\ProgrammingPortfolio\GSDIII_REDEMPTION\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\MapEditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDPROJECT\They\They\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\MapEditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GSDPROJECT\GSDPROJECT_REDEMPTION\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\ProgrammingPortfolio\GSDIII_PROJECT\MAP_EDITOR\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\MapEditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sub\MAP_EDITOR\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\REDEMPTION 1.0\MAP_EDITOR\MapEditor\MapEditor\MapEditorContent\obj\x86\Debug\ResolveAssemblyReference.cache

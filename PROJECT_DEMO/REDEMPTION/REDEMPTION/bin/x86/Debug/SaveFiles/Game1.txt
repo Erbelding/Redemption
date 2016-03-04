@@ -1,0 +1,18 @@
+[LOCATION]
+Swamp03 68 1224
+
+[ATTRIBUTES]
+Level 5 100
+Experience 52 74
+Health 103 130
+Mana 31 31
+Stamina 35 35
+Defense 15 999
+Strength 15 999
+Magic 15 999
+
+[EQUIPMENT]
+Bow Blowgun NONE NONE NONE NONE 
+[INVENTORY]
+ManaPotion ManaPotion Potion Potion Potion Potion Potion Potion Potion Sword Sword SteelSword 
+[QUESTS]

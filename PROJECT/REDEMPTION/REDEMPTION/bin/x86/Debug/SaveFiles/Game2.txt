@@ -1,0 +1,18 @@
+[LOCATION]
+Mountain01 792 1576
+
+[ATTRIBUTES]
+Level 41 100
+Experience 4156 18047
+Health 288 405
+Mana 0 162
+Stamina 156 156
+Defense 65 999
+Strength 68 999
+Magic 70 999
+
+[EQUIPMENT]
+MarkerOfCensorship IceSickle FancyHelmet FancyChest SeatlessTrousers FancyBoots 
+[INVENTORY]
+ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion ManaPotion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Popsickle Sword Sword Sword Sword IcicleShot Shield Shield Shield Shield Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Potion Nunchuck IronGreaves ThrowingKnife SlowPoke Crossbow ChainSword LightBolt LightBolt LeatherBoots SteelSword SteelSword ChainSword FireSword DecoratedSword AutumnChest BlackSword FancyLegs 
+[QUESTS]
